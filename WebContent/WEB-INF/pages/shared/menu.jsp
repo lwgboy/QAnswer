@@ -7,7 +7,7 @@
 	</div>
 	<div>
 		<ul class="nav navbar-nav">
-			<li class="active"><a href="#">首页</a></li>
+			<li><a href="#">首页</a></li>
 			<li><a href="#">闯关联系</a></li>
 			<li><a href="#">知识竞赛</a></li>
 			<li><a href="#">擂台比赛</a></li>
